@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "G+uansDMsXvkLgimQ0ZQMfdhEWl2zPrFvbr5Yesay7zvi5+bDVUDu12WcWjIu4+3J6evFWL37GwGhFA0RnR0Uw==",
+  "dgSpecHash": "aeoNZXfDK4CPDjuk52zQRnSZRBEP3QPkoXw0iy6OKZIoBYm7eD6pk5nQAsGS81HM7Y3Xk6y2UL0Ofzfibp62FQ==",
   "success": true,
   "projectFilePath": "D:\\project\\DockerApp\\DemoNetCoreWebAPI\\DemoNetCoreWebAPI\\DemoNetCoreWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Elambarithi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
     "C:\\Users\\Elambarithi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Elambarithi\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Elambarithi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\Elambarithi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\Elambarithi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\Elambarithi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
