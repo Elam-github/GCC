@@ -7,8 +7,8 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 WORKDIR /src
-COPY ["DemoNetCoreWebAPI/DemoNetCoreWebAPI.csproj", "DemoNetCoreWebAPI/"]
-RUN dotnet restore "DemoNetCoreWebAPI/DemoNetCoreWebAPI.csproj"
+COPY ["DemoNetCoreWebAPI.csproj", "DemoNetCoreWebAPI/"]
+RUN dotnet restore "DemoNetCoreWebAPI.csproj"
 COPY . .
 WORKDIR "/src/DemoNetCoreWebAPI"
 RUN dotnet build "DemoNetCoreWebAPI.csproj" -c Release -o /app/build
